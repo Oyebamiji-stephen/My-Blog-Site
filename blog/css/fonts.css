@@ -1,0 +1,43 @@
+/*antonio font*/
+@font-face {
+    font-family: anton;
+    src: url('../fonts/Anton/Anton-Regular.ttf');
+}
+/*antonio font*/
+
+/*josefine font*/
+@font-face {
+    font-family: josefine;
+    src: url('../fonts/Josefin_Sans/JosefinSans-Regular.ttf');
+}
+/*josefine font*/
+
+/*lexend font*/
+@font-face {
+    font-family: lexend;
+    src: url('../fonts/Lexend_Deca/LexendDeca-Regular.ttf');
+}
+/*lexend font*/
+/*IBM font*/
+@font-face {
+    font-family: IBM;
+    src: url('../fonts/IBM_Plex_Sans_Condensed/IBMPlexSansCondenssed-SemiBold.ttf');
+}
+/*IBM font*/
+/*livic font*/
+@font-face {
+    font-family: livic;
+    src: url('../fonts/Livvic/Livvic-Regular.ttf');
+}
+/*livic font*/
+
+/*abel font*/
+@font-face {
+    font-family: abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf');
+}
+/*antonio font*/
+@font-face{
+    font-family: antonio;
+    src: url('../fonts/Antonio/Antonio-Regular.ttf');
+} 
